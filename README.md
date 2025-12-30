@@ -74,7 +74,7 @@ Add the following bucket policy to allow public read access:
 ```
 ---
 
-## #Step 5: Verify S3 Website
+### Step 5: Verify S3 Website
 -Use the S3 static website endpoint
 -Confirm the site loads correctly on desktop
 
