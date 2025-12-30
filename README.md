@@ -24,13 +24,13 @@ To design and deploy a personal portfolio website showcasing skills, projects, a
 
 ---
 
-## Project Structure
+```## Project Structure
 aws-portfolio-website/
 ├── index.html
 ├── style.css
 ├── script.js
 ├── profile.jpg
-
+```
 ---
 
 ## AWS Deployment Steps
