@@ -72,13 +72,15 @@ Add the following bucket policy to allow public read access:
   ]
 }
 ```
-##Step 5: Verify S3 Website
+---
+
+## #Step 5: Verify S3 Website
 -Use the S3 static website endpoint
 -Confirm the site loads correctly on desktop
 
 ---
 
-##Step 6: Configure CloudFront
+### Step 6: Configure CloudFront
 -Create a CloudFront distribution
 -Set the S3 website endpoint as the origin
 -Enable “Redirect HTTP to HTTPS”
@@ -87,13 +89,13 @@ Add the following bucket policy to allow public read access:
 
 ---
 
-Public Access
+### Public Access
 
 The website is accessible via a CloudFront HTTPS URL, ensuring compatibility across desktop and mobile devices.
 
 ---
 
-Security and Best Practices
+### Security and Best Practices
 -Followed IAM least-privilege principle
 -Used S3 bucket policy for read-only public access
 -No credentials stored in code
