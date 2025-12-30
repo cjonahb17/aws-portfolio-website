@@ -104,5 +104,5 @@ The website is accessible via a CloudFront HTTPS URL, ensuring compatibility acr
 
 ---
 
-Author
+## Author
 Jonah Blessy C
