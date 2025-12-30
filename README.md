@@ -102,5 +102,4 @@ Security and Best Practices
 ---
 
 Author
-
 Jonah Blessy C
